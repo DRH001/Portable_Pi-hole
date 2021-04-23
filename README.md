@@ -11,7 +11,7 @@ If you've ever used a Pi-hole, you know that it's the absolute best way to block
 Setting this up is simple enough:
 
  - Download and run PH4WSL1.cmd (either from this repository or its [original repository](https://github.com/DesktopECHO/Pi-Hole-for-WSL1))
- - Download Pi-hole_launcher.bat and paste this in C:\Users\your_username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - be sure to replace "your_username" with your username or find the folder manually!
+ - Download Pi-hole_launcher.cmd and paste this in C:\Users\your_username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - be sure to replace "your_username" with your username or find the folder manually!
  - Configure your computer to use itself as its DNS server. To do this:
    - Open control panel > View network status and tasks > change adapter settings
    - Single-click on "Wi-Fi" (you can do this for Ethernet too if you want)
