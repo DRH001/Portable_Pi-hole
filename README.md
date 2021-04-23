@@ -22,3 +22,5 @@ Setting this up is simple enough:
    - Hit OK as many times as necessary to close everything
 
 Just like that, you have a portable Pi-hole set up - enjoy never seen ads again!
+
+If you want to see Pi-hole's main page for statistics once everything is set up, you can type "localhost" into your search bar in any browser and navigate from there. You can also set your router to use your computer with the Pi-hole as the DNS server for every device on the network (set up your router as you would for a normal Pi-hole).
