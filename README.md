@@ -13,5 +13,12 @@ Setting this up is simple enough:
  - Download and run PH4WSL1.cmd (either from this repository or its [original repository](https://github.com/DesktopECHO/Pi-Hole-for-WSL1))
  - Download Pi-hole_launcher.bat and paste this in C:\Users\your_username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - be sure to replace "your_username" with your username or find the folder manually!
  - Configure your computer to use itself as its DNS server. To do this:
-   - test
+   - Open control panel > View network status and tasks > change adapter settings
+   - Single-click on "Wi-Fi" (you can do this for Ethernet too if you want)
+   - Click on "Change settings of this connection"
+   - In Wi-Fi properties (the window that opened), double-click "Internet Protocol Version 4 (TCP/IPv4)" to open its properties
+   - Switch "Obtain DNS server address automatically" to "Use the following DNS server addresses:"
+   - Under "Prefered DNS server:", enter 127.0.0.1
+   - Hit OK as many times as necessary to close everything
 
+Just like that, you have a portable Pi-hole set up - enjoy never seen ads again!
