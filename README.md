@@ -1,5 +1,5 @@
 # Portable Pi-hole
-A Pi-hole for Windows 10 which can work on any network, and works automatically once set up
+A Pi-hole for Windows 10 which can work on any network - once it's set up, you never have to think about it again!
 
 
 
