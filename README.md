@@ -27,4 +27,4 @@ If you want to see Pi-hole's main page for statistics once everything is set up,
 
 
 
-Note: I am in no way affiliated with [**©Pi-hole, LLC**](https://pi-hole.net) and do not take credit for the [code in PH4WSL1.cmd](https://github.com/DesktopECHO/Pi-Hole-for-WSL1). This is simply a guide for how to set everything up to be able to run a Pi-hole on the go.
+Note: I am in no way affiliated with [**©Pi-hole, LLC**](https://pi-hole.net) and do not take credit for the [code in PH4WSL1.cmd](https://github.com/DesktopECHO/Pi-Hole-for-WSL1). This is simply a guide for how to set everything up to be able to run a Pi-hole on the go. I'll eventually package everything together into a single installer.
