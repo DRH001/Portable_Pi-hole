@@ -17,7 +17,7 @@ Setting this up is simple enough:
    - Click on "Change settings of this connection"
    - In Wi-Fi properties (the window that opened), double-click "Internet Protocol Version 4 (TCP/IPv4)" to open its properties
    - Switch "Obtain DNS server address automatically" to "Use the following DNS server addresses:"
-   - Under "Prefered DNS server:", enter 127.0.0.1
+   - Under "Prefered DNS server:", enter 127.0.0.1 (this IP is a [loopback address](https://www.pcmag.com/encyclopedia/term/loopback-address)
    - Hit OK as many times as necessary to close everything
 
 Just like that, you have a portable Pi-hole set up - enjoy never seen ads again!
