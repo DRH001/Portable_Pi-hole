@@ -3,7 +3,6 @@ A Pi-hole for Windows 10 which can work on any network, and works automatically 
 
 
 
-Note: I am in no way affiliated with [**©Pi-hole, LLC**](https://pi-hole.net) and do not take credit for the [code in PH4WSL1.cmd](https://github.com/DesktopECHO/Pi-Hole-for-WSL1). This is simply a guide for how to set everything up to be able to run a Pi-hole on the go.
 
 
 If you've ever used a Pi-hole, you know that it's the absolute best way to block ads. One problem many people have with the Pi-hole, however, is that it's so good that it almost comes as a shock when you sign into a different network and start getting ads again! This guide will walk you through setting up a portable Pi-hole so that you can have protection against ads no matter what network you're using.
@@ -24,3 +23,8 @@ Setting this up is simple enough:
 Just like that, you have a portable Pi-hole set up - enjoy never seen ads again!
 
 If you want to see Pi-hole's main page for statistics once everything is set up, you can type "localhost" into your search bar in any browser and navigate from there. You can also set your router to use your computer with the Pi-hole as the DNS server for every device on the network (set up your router as you would for a normal Pi-hole).
+
+
+
+
+Note: I am in no way affiliated with [**©Pi-hole, LLC**](https://pi-hole.net) and do not take credit for the [code in PH4WSL1.cmd](https://github.com/DesktopECHO/Pi-Hole-for-WSL1). This is simply a guide for how to set everything up to be able to run a Pi-hole on the go.
