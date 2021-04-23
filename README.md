@@ -5,7 +5,7 @@ A Pi-hole for Windows 10 which can work on any network - once it's set up, you n
 
 
 
-If you've ever used a Pi-hole, you know that it's the absolute best way to block ads. One problem many people have with the Pi-hole, however, is that it's so good that it almost comes as a shock when you sign into a different network and start getting ads again! This guide will walk you through setting up a portable Pi-hole so that you can have protection against ads no matter what network you're using.
+If you've ever used a Pi-hole, you know that it's the absolute best way to block ads. One problem many people have with the Pi-hole, however, is that it's so good that it almost comes as a shock when you sign into a different network and start getting ads again! This guide will walk you through setting up a portable Pi-hole so that you can have protection against ads (and [various forms of malware](https://en.wikipedia.org/wiki/DNS_hijacking) no matter what network you're using.
 
 Setting this up is simple enough:
 
