@@ -13,5 +13,5 @@ Setting this up is simple enough:
  - Download and run PH4WSL1.cmd (either from this repository or its [original repository](https://github.com/DesktopECHO/Pi-Hole-for-WSL1))
  - Download Pi-hole_launcher.bat and paste this in C:\Users\your_username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - be sure to replace "your_username" with your username or find the folder manually!
  - Configure your computer to use itself as its DNS server. To do this:
-  - test
+   - test
 
